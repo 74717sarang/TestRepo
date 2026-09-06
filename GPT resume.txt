@@ -1,0 +1,115 @@
+FINAL RESUME — SARANG PATIL
+Sarang Patil
+
+Pune, Maharashtra, India | patilsarang13520@gmail.com | +91 7499414480
+LinkedIn: linkedin.com/in/sarang-patil2000 | GitHub: github.com/74717sarang
+
+PROFESSIONAL SUMMARY
+
+.NET Developer with 1+ year of professional experience developing backend services and REST APIs using C#, ASP.NET Core and PostgreSQL. Hands-on experience with Dapper, microservices, CQRS using MediatR, JWT-based authentication and authorization, Ocelot API Gateway, FluentValidation, AutoMapper and Swagger/OpenAPI. Experienced in API development, database integration, debugging, production defect resolution and Agile/Scrum collaboration using Git and GitHub. Also experienced in Java, Spring Boot, Spring Security, React.js and MySQL through full-stack project development. Seeking .NET Developer, Backend Developer or Software Developer opportunities.
+
+PROFESSIONAL EXPERIENCE
+Zest India IT Pvt Ltd — Pune, India
+
+.NET Software Developer
+Aug 2025 – Present
+
+Project: CarePlanner – Enterprise Multi-Tenant Appointment Scheduling & Care Management Platform
+Technologies: C#, ASP.NET Core Web API, PostgreSQL, Dapper, Microservices, CQRS, MediatR, JWT, Ocelot API Gateway, Swagger/OpenAPI
+
+Developed and maintained RESTful Web APIs using C# and ASP.NET Core for enterprise application features across multiple backend services.
+Worked on a multi-tenant, microservices-based appointment scheduling and care management platform, contributing across Appointment, CRM and Document services.
+Developed backend functionality using CQRS and MediatR, following modular architecture and separation of responsibilities.
+Implemented database access using Dapper and PostgreSQL, writing and debugging SQL queries for data retrieval, updates and business requirements.
+Implemented and maintained JWT-based authentication and authorization, including role-based access control for protected API endpoints.
+Worked with Ocelot API Gateway for API routing and communication between client applications and backend microservices.
+Implemented request validation and object mapping using FluentValidation and AutoMapper to maintain consistent API processing.
+Developed and validated APIs using Swagger/OpenAPI and Postman, verifying request/response contracts, edge cases and error handling.
+Diagnosed and resolved defects by tracing issues across API, business logic and database layers and validating fixes against reported scenarios.
+Contributed to modules and features involving client contacts, authorization groups, billing rules, staff qualifications, payer services, document synchronization and appointment-related workflows.
+Collaborated in an Agile/Scrum development environment using Git/GitHub, feature branches, pull requests and code reviews.
+TECHNICAL SKILLS
+Languages
+
+C#, Java, SQL, JavaScript
+
+Backend & APIs
+
+.NET, ASP.NET Core, ASP.NET Core Web API, REST APIs, Dapper, Microservices, CQRS, MediatR, JWT Authentication, Ocelot API Gateway, FluentValidation, AutoMapper
+
+Databases
+
+PostgreSQL, MySQL, SQL, PL/SQL, Database Design, Query Writing & Optimization
+
+Java / Full Stack
+
+Java, Spring Boot, Spring Security, React.js
+
+Tools & Development
+
+Git, GitHub, GitHub Enterprise, Visual Studio, VS Code, IntelliJ IDEA, Swagger/OpenAPI, Postman
+
+Architecture & Practices
+
+Object-Oriented Programming, SOLID Principles, Layered Architecture, Dependency Injection, Exception Handling, Debugging, Code Reviews, Agile/Scrum
+
+PROJECTS
+Eatzilla – Online Food Delivery Platform
+
+PG-DAC Academic Project | 2024
+
+Technologies: Java, Spring Boot, Spring Security, React.js, MySQL, REST APIs, JWT, Git/GitHub
+
+Developed a full-stack online food delivery application using Spring Boot, React.js and MySQL.
+Implemented Spring Security with JWT authentication and role-based access control for customer, restaurant and admin roles.
+Developed REST APIs for user registration, menu browsing, cart management, order placement and order tracking.
+Designed the relational database schema and implemented persistence logic using MySQL.
+Integrated React.js frontend components with Spring Boot REST APIs to provide a responsive application experience.
+Managed source code using Git/GitHub and followed iterative development and testing practices.
+Repository: github.com/74717sarang/Eatzilla
+EDUCATION
+PG Diploma in Advanced Computing (PG-DAC), C-DAC
+
+Institute for Advanced Computing & Software Development (IACSD), Akurdi, Pune
+Mar 2024 – Sept 2024 | Score: 65%
+
+Bachelor of Technology – Civil Engineering
+
+Dr. Daulatrao Aher College of Engineering, Karad
+Sept 2018 – Jun 2022 | Score: 75%
+
+CERTIFICATIONS
+Core Java Certification — Sunbeam IT Park, Hinjawadi, Pune
+SQL (Advanced) — HackerRank
+IMPORTANT: What I intentionally removed
+
+I would not put these in the current professional-project description from your previous resume:
+
+❌ Entity Framework Core
+❌ LINQ
+❌ SQL Server
+❌ Repository Pattern
+
+Your previous uploaded resume presented those as the main current-project technologies.
+
+Your current Naukri positioning is instead based on:
+
+PostgreSQL + Dapper + Microservices + CQRS/MediatR + Ocelot + JWT
+
+So the resume should match that positioning exactly.
+
+I also removed C, C++, HTML and CSS from the main skills section because they add noise for the .NET backend roles you're targeting. Your older resume listed all of them, but they aren't necessary for your current positioning.
+
+🔥 One important improvement to your current Naukri profile
+
+Your resume and Naukri should now have essentially the same primary keywords:
+
+Resume
+
+C# | ASP.NET Core | Web API | PostgreSQL | Dapper | Microservices | CQRS | MediatR | JWT | Ocelot | Swagger | Git
+
+Naukri
+
+C# | ASP.NET Core | .NET Core | ASP.NET Web API | REST API | PostgreSQL | SQL | Dapper | Microservices | CQRS | JWT | Swagger | Dependency Injection | Git
+
+That's exactly what we want.
