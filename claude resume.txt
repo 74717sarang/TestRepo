@@ -1,0 +1,55 @@
+SARANG PATIL
+Pune, Maharashtra, India
+patilsarang13520@gmail.com | +91 7499414480
+linkedin.com/in/sarang-patil2000 | github.com/74717sarang
+
+SUMMARY
+.NET Backend Developer building microservices for a healthcare care-planning and scheduling platform using C#, .NET 9, ASP.NET Core Web API, PostgreSQL, and Dapper. Experienced with CQRS (MediatR), FluentValidation, JWT authentication, Ocelot API Gateway, Apache Kafka event-driven integration, Redis caching, and PL/pgSQL stored procedures. Ships features through Docker and Azure DevOps CI/CD pipelines across Dev, QA, UAT, Staging, and Production environments. Also skilled in Java, Spring Boot, and React.js full-stack development.
+
+EXPERIENCE
+.NET Developer
+Zest India IT Services, Pune, India | Aug 2025 – Present
+Project: CarePlanner – Healthcare care-planning and appointment scheduling platform (C#, .NET 9, ASP.NET Core Web API, PostgreSQL, Dapper, Kafka, Docker, Azure DevOps)
+
+- Built and enhanced RESTful APIs across 4 ASP.NET Core microservices (API Gateway, Appointment, CRM, Document) using CQRS with MediatR commands, queries, and handlers, keeping business logic separate from controllers.
+- Developed data access with Dapper and Npgsql over PostgreSQL, and wrote and optimized PL/pgSQL stored procedures and functions for appointments, recurrence, billing, and client authorizations.
+- Implemented recurring appointment logic with Ical.Net (RRULE), including "edit this and following" series splits, and fixed date-boundary defects such as drive-time calculations for appointments crossing midnight.
+- Built bi-directional appointment and document synchronization between CarePlanner and the Aloha practice-management system using Apache Kafka (MassTransit) producers and consumers with CloudEvents messages.
+- Configured Ocelot API Gateway routes with JWT Bearer authentication, per-route scopes, and Polly resilience, and resolved 401 authorization failures on document endpoints across QA, Staging, and Production.
+- Enforced role- and permission-based access control (roles, user roles, role permissions) and request validation with FluentValidation, returning consistent HTTP status codes and error responses.
+- Delivered CRM and scheduling modules including clients, staff, payers, services, earning codes, billing rules, client authorizations, and dynamic custom forms and document management.
+- Improved observability and performance using Serilog with Grafana Loki structured logging, Redis distributed caching, and ASP.NET Core health checks.
+- Containerized services with Docker multi-stage builds and shipped through Azure DevOps Pipelines to Azure Container Registry, with branch-based deployments to Dev, QA, UAT, Staging, and Production.
+- Documented and tested APIs with Swagger/OpenAPI and Postman, traced defects end to end across the API, handler, and database layers, and collaborated in Agile/Scrum sprints with Git pull requests and code reviews.
+
+SKILLS
+Languages: C#, Java, SQL, JavaScript, HTML, CSS
+Backend: .NET 9, ASP.NET Core Web API, RESTful APIs, Microservices, MediatR (CQRS), FluentValidation, AutoMapper, Dapper, Entity Framework Core, LINQ, Spring Boot, Spring MVC, Spring Security
+Frontend: React.js, JavaScript, HTML, CSS
+Databases: PostgreSQL, PL/pgSQL, SQL Server, MySQL, MongoDB, Stored Procedures, Query Optimization
+Messaging & Caching: Apache Kafka, MassTransit, CloudEvents, Redis
+Security: JWT Authentication, OAuth Bearer Tokens, Role-Based Access Control (RBAC), Ocelot API Gateway
+DevOps & Cloud: Docker, Azure DevOps Pipelines (CI/CD), Azure Container Registry, Azure Artifacts (NuGet)
+Tools: Git, GitHub, Visual Studio, VS Code, IntelliJ IDEA, Swagger/OpenAPI, Postman, Serilog, Grafana Loki
+Practices: OOP, SOLID Principles, Dependency Injection, Repository Pattern, Clean/Layered Architecture, Data Structures & Algorithms, Debugging, Code Reviews, Agile/Scrum
+
+PROJECTS
+Eatzilla – Online Food Delivery Platform (PG-DAC Academic Project) | 2024
+github.com/74717sarang/Eatzilla
+- Built a full-stack food delivery application with a Java/Spring Boot REST backend, React.js frontend, and MySQL database.
+- Implemented Spring Security with JWT authentication and role-based access control for customer, restaurant, and admin roles.
+- Developed REST APIs for registration, menu browsing, cart management, order placement, and order tracking.
+- Designed the relational MySQL schema with parameterized data access, and managed code in Git/GitHub using iterative Agile development.
+
+EDUCATION
+PG Diploma in Advanced Computing (PG-DAC), C-DAC | Mar 2024 – Sep 2024
+Institute for Advanced Computing & Software Development (IACSD), Akurdi, Pune | Score: 65%
+
+Bachelor of Technology | Sep 2018 – Jun 2022
+Dr. Daulatrao Aher College of Engineering, Karad | Score: 75%
+
+CERTIFICATIONS
+- Core Java – Sunbeam IT Park, Hinjawadi, Pune
+- SQL (Advanced) – HackerRank
+
+
